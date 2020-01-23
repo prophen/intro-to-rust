@@ -10,8 +10,8 @@ workshop content from my _Intro to Rust_ course on [egghead.io](https://egghead.
 
 In order for us to maximize our efforts during the workshop, please do the following:
 
-- [ ] Setup the project (follow the setup instructions below) (~5 minutes)
-- [ ] Install and setup [Zoom](https://zoom.us) on the computer you will be
+- [x] Setup the project (follow the setup instructions below) (~5 minutes)
+- [x] Install and setup [Zoom](https://zoom.us) on the computer you will be
       using (~5 minutes)
 
 The more prepared you are for the workshop, the better it will go for you.
